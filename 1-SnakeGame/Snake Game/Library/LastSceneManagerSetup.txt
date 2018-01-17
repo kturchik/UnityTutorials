@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Kyle/Desktop/file_unity/2d-snake-game/source/unity 2d snake game/Assets/scene.unity
+  isLoaded: 1
+  isActive: 1
